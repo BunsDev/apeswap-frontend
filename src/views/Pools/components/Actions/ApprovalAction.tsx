@@ -1,6 +1,6 @@
 /** @jsxImportSource theme-ui */
 import React, { useState } from 'react'
-import { Skeleton } from '@apeswapfinance/uikit'
+import { Skeleton } from 'soulswap-uikit'
 import { useSousApprove } from 'hooks/useApprove'
 import { useERC20 } from 'hooks/useContract'
 import { useAppDispatch } from 'state'

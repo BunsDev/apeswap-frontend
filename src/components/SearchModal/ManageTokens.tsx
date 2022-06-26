@@ -1,6 +1,6 @@
 import React, { useRef, RefObject, useCallback, useState, useMemo } from 'react'
-import { Token } from '@apeswapfinance/sdk'
-import { Text, Button, CloseIcon, IconButton, LinkExternal, Input, Link } from '@apeswapfinance/uikit'
+import { Token } from 'soulswap-sdk'
+import { Text, Button, CloseIcon, IconButton, LinkExternal, Input, Link } from 'soulswap-uikit'
 import styled from 'styled-components'
 import Row, { RowBetween, RowFixed } from 'components/layout/Row'
 import { useToken } from 'hooks/Tokens'

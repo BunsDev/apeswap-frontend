@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Nft } from 'config/constants/types'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 
 interface MobileHeaderProps {
   nfa: Nft

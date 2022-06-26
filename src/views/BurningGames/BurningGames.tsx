@@ -1,5 +1,5 @@
 import React from 'react'
-import { Heading, BaseLayout, useMatchBreakpoints, Text } from '@apeswapfinance/uikit'
+import { Heading, BaseLayout, useMatchBreakpoints, Text } from 'soulswap-uikit'
 import styled from 'styled-components'
 import Page from 'components/layout/Page'
 import useTheme from 'hooks/useTheme'

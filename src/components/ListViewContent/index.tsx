@@ -1,5 +1,5 @@
 /** @jsxImportSource theme-ui */
-import { Flex, HelpIcon, TooltipBubble } from '@apeswapfinance/uikit'
+import { Flex, HelpIcon, TooltipBubble } from 'soulswap-uikit'
 import React from 'react'
 import { TitleText, ListViewContentContainer, ValueText, ValueSkeleton } from './styles'
 import { ListViewContentProps } from './types'

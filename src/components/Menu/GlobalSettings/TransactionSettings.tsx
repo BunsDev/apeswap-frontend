@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { escapeRegExp } from 'utils'
-import { Text, Input, Flex } from '@apeswapfinance/uikit'
+import { Text, Input, Flex } from 'soulswap-uikit'
 import { useUserSlippageTolerance, useUserTransactionTTL } from 'state/user/hooks'
 import { useTranslation } from 'contexts/Localization'
 import styled from '@emotion/styled'

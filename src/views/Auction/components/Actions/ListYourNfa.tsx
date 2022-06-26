@@ -1,5 +1,5 @@
 import React from 'react'
-import { useModal } from '@apeswapfinance/uikit'
+import { useModal } from 'soulswap-uikit'
 import { useProfile } from 'state/hooks'
 import useListNfa from 'hooks/useListNfa'
 import styled from 'styled-components'

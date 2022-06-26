@@ -1,5 +1,5 @@
 import React from 'react'
-import { BillsM1, BillsM2, BillsM3 } from '@apeswapfinance/uikit'
+import { BillsM1, BillsM2, BillsM3 } from 'soulswap-uikit'
 import useTheme from 'hooks/useTheme'
 import { useTranslation } from 'contexts/Localization'
 import { Content, RightText, InnerTextButton, Surround, RightHeader, RightContent } from './styles'

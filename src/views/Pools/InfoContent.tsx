@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex, Text, LinkExternal } from '@apeswapfinance/uikit'
+import { Flex, Text, LinkExternal } from 'soulswap-uikit'
 import { Pool } from 'state/types'
 import { useBlock } from 'state/block/hooks'
 import getTimePeriods from 'utils/getTimePeriods'

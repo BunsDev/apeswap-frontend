@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 
 import { Item, Display, StyledIfoCardDetails } from './styles'
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Flex, AddIcon, MinusIcon, useModal } from '@apeswapfinance/uikit'
+import { Flex, AddIcon, MinusIcon, useModal } from 'soulswap-uikit'
 import BigNumber from 'bignumber.js'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { useSousStake } from 'hooks/useStake'

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, Text } from '@apeswapfinance/uikit'
+import { Card, Text } from 'soulswap-uikit'
 import { useProfile } from 'state/hooks'
 import { useTranslation } from 'contexts/Localization'
 import WalletNft from './WalletNft'

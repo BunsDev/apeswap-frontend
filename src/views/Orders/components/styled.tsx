@@ -1,4 +1,4 @@
-import { ErrorIcon, Text } from '@apeswapfinance/uikit'
+import { ErrorIcon, Text } from 'soulswap-uikit'
 import { AutoColumn } from 'components/layout/Column'
 import React from 'react'
 import styled, { css } from 'styled-components'

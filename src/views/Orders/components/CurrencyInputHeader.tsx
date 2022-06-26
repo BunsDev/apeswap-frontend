@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Button, useMatchBreakpoints, Tabs, Tab } from '@apeswapfinance/uikit'
+import { Flex, Button, useMatchBreakpoints, Tabs, Tab } from 'soulswap-uikit'
 import GlobalSettings from 'components/Menu/GlobalSettings'
 import { useTranslation } from 'contexts/Localization'
 import { useLocation, useHistory } from 'react-router-dom'

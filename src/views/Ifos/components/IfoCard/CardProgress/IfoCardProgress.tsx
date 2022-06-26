@@ -1,5 +1,5 @@
 import React from 'react'
-import { Progress } from '@apeswapfinance/uikit'
+import { Progress } from 'soulswap-uikit'
 import { StyledProgress, ProgressBar, Label } from './styles'
 
 interface IfoCardProgressProps {

@@ -1,4 +1,4 @@
-import { Button, Flex } from '@apeswapfinance/uikit'
+import { Button, Flex } from 'soulswap-uikit'
 import styled from 'styled-components'
 
 export const StyledButton = styled(Button)`

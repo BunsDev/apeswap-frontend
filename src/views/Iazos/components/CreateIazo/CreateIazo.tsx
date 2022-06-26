@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Text } from '@apeswapfinance/uikit'
+import { Flex, Text } from 'soulswap-uikit'
 import Banner from 'components/Banner'
 import { useFetchIazoSettings, useIazoSettings } from 'state/hooks'
 import { useTranslation } from 'contexts/Localization'

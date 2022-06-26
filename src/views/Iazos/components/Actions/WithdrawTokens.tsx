@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { AutoRenewIcon } from '@apeswapfinance/uikit'
+import { AutoRenewIcon } from 'soulswap-uikit'
 import useWithdrawOfferTokens from 'views/Iazos/hooks/useWithdrawOfferTokens'
 import { IazoState } from 'state/types'
 import { useAccountTokenBalance } from 'hooks/useTokenBalance'

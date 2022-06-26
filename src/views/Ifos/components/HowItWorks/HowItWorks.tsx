@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button } from '@apeswapfinance/uikit'
+import { Button } from 'soulswap-uikit'
 import useTheme from 'hooks/useTheme'
 
 import { useTranslation } from 'contexts/Localization'

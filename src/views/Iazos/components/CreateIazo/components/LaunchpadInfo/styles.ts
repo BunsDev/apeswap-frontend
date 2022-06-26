@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, ArrowDropDownIcon, ArrowDropUpIcon } from '@apeswapfinance/uikit'
+import { Text, ArrowDropDownIcon, ArrowDropUpIcon } from 'soulswap-uikit'
 
 export const LaunchPadInfoWrapper = styled.div`
   width: 300px;

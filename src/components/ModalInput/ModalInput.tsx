@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from '@emotion/styled'
-import { Text, Button, Input, InputProps, Flex } from '@apeswapfinance/uikit'
+import { Text, Button, Input, InputProps, Flex } from 'soulswap-uikit'
 import { useTranslation } from '../../contexts/Localization'
 
 interface ModalInputProps {

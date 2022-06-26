@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { AutoRenewIcon, useMatchBreakpoints } from '@apeswapfinance/uikit'
+import { AutoRenewIcon, useMatchBreakpoints } from 'soulswap-uikit'
 import useTokenBalance from 'hooks/useTokenBalance'
 import { getBalanceNumber } from 'utils/formatBalance'
 import useTheme from 'hooks/useTheme'

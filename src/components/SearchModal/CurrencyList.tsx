@@ -1,6 +1,6 @@
 import React, { CSSProperties, MutableRefObject, useCallback, useMemo } from 'react'
-import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from '@apeswapfinance/sdk'
-import { Text, Card, Skeleton } from '@apeswapfinance/uikit'
+import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from 'soulswap-sdk'
+import { Text, Card, Skeleton } from 'soulswap-uikit'
 import styled from 'styled-components'
 import { FixedSizeList } from 'react-window'
 import { wrappedCurrency } from 'utils/wrappedCurrency'

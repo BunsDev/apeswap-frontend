@@ -1,4 +1,4 @@
-import { Button, Flex } from '@apeswapfinance/uikit'
+import { Button, Flex } from 'soulswap-uikit'
 import { Tag } from '@ape.swap/uikit'
 import UnlockButton from 'components/UnlockButton'
 import styled from 'styled-components'

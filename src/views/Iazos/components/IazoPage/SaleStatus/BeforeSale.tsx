@@ -1,5 +1,5 @@
 import React from 'react'
-import { useMatchBreakpoints } from '@apeswapfinance/uikit'
+import { useMatchBreakpoints } from 'soulswap-uikit'
 import { IazoTimeInfo } from 'state/types'
 import getTimePeriods from 'utils/getTimePeriods'
 import { useTranslation } from 'contexts/Localization'

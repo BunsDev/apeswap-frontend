@@ -1,5 +1,5 @@
 import styled from '@emotion/styled'
-import { Heading, Text, Button, Flex, Checkbox } from '@apeswapfinance/uikit'
+import { Heading, Text, Button, Flex, Checkbox } from 'soulswap-uikit'
 
 export const StyledCard = styled.div`
   overflow: visible;

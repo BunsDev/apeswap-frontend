@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Skeleton, AutoRenewIcon } from '@apeswapfinance/uikit'
+import { Skeleton, AutoRenewIcon } from 'soulswap-uikit'
 import { useDualFarmApprove } from 'hooks/useApprove'
 import { useERC20 } from 'hooks/useContract'
 import { getEtherscanLink } from 'utils'

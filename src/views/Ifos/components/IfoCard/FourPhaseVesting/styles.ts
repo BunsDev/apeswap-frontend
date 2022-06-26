@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Button, Text } from '@apeswapfinance/uikit'
+import { Button, Text } from 'soulswap-uikit'
 
 export const Container = styled.div`
   background-color: ${({ theme }) => theme.colors.white3};

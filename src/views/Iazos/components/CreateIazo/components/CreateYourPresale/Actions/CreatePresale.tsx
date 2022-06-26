@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { AutoRenewIcon } from '@apeswapfinance/uikit'
+import { AutoRenewIcon } from 'soulswap-uikit'
 import { useHistory } from 'react-router-dom'
 import useCreateIazo from 'views/Iazos/hooks/useCreateIazo'
 import tokens from 'config/constants/tokens'

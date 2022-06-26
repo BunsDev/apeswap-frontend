@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Flex, Modal, Text } from '@apeswapfinance/uikit'
+import { Flex, Modal, Text } from 'soulswap-uikit'
 import ServiceTokenDisplay from 'components/ServiceTokenDisplay'
 import { Bills } from 'state/types'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

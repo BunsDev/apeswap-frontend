@@ -1,5 +1,5 @@
 import React from 'react'
-import { LegacySvgProps } from '@apeswapfinance/uikit'
+import { LegacySvgProps } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 
 import { OpCon, OpDesc, OpDescCon, OpHeading, OpHeadingCon, AnchorTag, ActionButton } from './styles'

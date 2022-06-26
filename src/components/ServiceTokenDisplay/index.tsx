@@ -1,4 +1,4 @@
-import { Flex } from '@apeswapfinance/uikit'
+import { Flex } from 'soulswap-uikit'
 import { BillsArrow } from 'components/Icons'
 import React from 'react'
 import { EarnIcon, TokenContainer } from './styles'

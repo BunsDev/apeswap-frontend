@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, useMatchBreakpoints } from '@apeswapfinance/uikit'
+import { Flex, useMatchBreakpoints } from 'soulswap-uikit'
 import SwiperProvider from 'contexts/SwiperProvider'
 import Banner from 'components/Banner'
 import { useAuctions, useFetchAuctions } from 'state/hooks'

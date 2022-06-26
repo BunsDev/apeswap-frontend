@@ -1,6 +1,6 @@
 import React from 'react'
-import { ChainId, Currency, currencyEquals, ETHER, Token } from '@apeswapfinance/sdk'
-import { Text } from '@apeswapfinance/uikit'
+import { ChainId, Currency, currencyEquals, ETHER, Token } from 'soulswap-sdk'
+import { Text } from 'soulswap-uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import { SUGGESTED_BASES } from '../../config/constants'

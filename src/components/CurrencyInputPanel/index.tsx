@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useMemo } from 'react'
-import { Currency, Pair, Token } from '@apeswapfinance/sdk'
-import { Button, Text, useModal, Flex, ArrowDropDownIcon, useMatchBreakpoints } from '@apeswapfinance/uikit'
+import { Currency, Pair, Token } from 'soulswap-sdk'
+import { Button, Text, useModal, Flex, ArrowDropDownIcon, useMatchBreakpoints } from 'soulswap-uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

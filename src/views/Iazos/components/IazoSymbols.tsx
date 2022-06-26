@@ -1,6 +1,6 @@
 import React from 'react'
 import styled, { keyframes } from 'styled-components'
-import { Text, Skeleton, useMatchBreakpoints } from '@apeswapfinance/uikit'
+import { Text, Skeleton, useMatchBreakpoints } from 'soulswap-uikit'
 
 interface IazoSymbolProps {
   iconImage: 'monkey' | 'lock' | 'dollar' | 'twitter' | 'medium' | 'website' | 'whitepaper' | 'telegram'

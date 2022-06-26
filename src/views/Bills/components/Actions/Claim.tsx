@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import useClaimBill from 'views/Bills/hooks/useClaimBill'
-import { AutoRenewIcon } from '@apeswapfinance/uikit'
+import { AutoRenewIcon } from 'soulswap-uikit'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useToast } from 'state/hooks'
 import { getEtherscanLink } from 'utils'

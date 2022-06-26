@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { useRouteMatch, useHistory } from 'react-router-dom'
-import { Toggle } from '@apeswapfinance/uikit'
+import { Toggle } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 
 const Wrapper = styled.div`

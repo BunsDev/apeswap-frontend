@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Button, Heading, Text as UIKitText, ArrowForwardIcon } from '@apeswapfinance/uikit'
+import { Button, Heading, Text as UIKitText, ArrowForwardIcon } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 
 const StyledHowItWorks = styled.div`

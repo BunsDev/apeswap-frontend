@@ -1,4 +1,4 @@
-import { Button, Input } from '@apeswapfinance/uikit'
+import { Button, Input } from 'soulswap-uikit'
 import styled from '@emotion/styled'
 
 export const GetLPButton = styled(Button)`

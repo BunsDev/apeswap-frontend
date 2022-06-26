@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react'
-import { Card, Heading, Text } from '@apeswapfinance/uikit'
+import { Card, Heading, Text } from 'soulswap-uikit'
 import styled from 'styled-components'
 import { Stats } from 'state/types'
 import { Box } from 'theme-ui'

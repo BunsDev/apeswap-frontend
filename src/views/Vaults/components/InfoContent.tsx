@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex, Text, LinkExternal } from '@apeswapfinance/uikit'
+import { Flex, Text, LinkExternal } from 'soulswap-uikit'
 import { Vault } from 'state/types'
 import { BLOCK_EXPLORER } from 'config/constants/chains'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

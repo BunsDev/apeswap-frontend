@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Card, Heading, Text, Flex } from '@apeswapfinance/uikit'
+import { Card, Heading, Text, Flex } from 'soulswap-uikit'
 import styled from 'styled-components'
 import { FarmPool } from 'state/types'
 import { Box } from 'theme-ui'

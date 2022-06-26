@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text, useMatchBreakpoints, Skeleton } from '@apeswapfinance/uikit'
+import { Text, useMatchBreakpoints, Skeleton } from 'soulswap-uikit'
 import { BLOCK_EXPLORER } from 'config/constants/chains'
 import { useNetworkChainId } from 'state/hooks'
 import { useTranslation } from 'contexts/Localization'

@@ -1,4 +1,4 @@
-import { Pair, Token } from '@apeswapfinance/sdk'
+import { Pair, Token } from 'soulswap-sdk'
 import flatMap from 'lodash/flatMap'
 import { useCallback, useMemo } from 'react'
 import { useDispatch, useSelector } from 'react-redux'

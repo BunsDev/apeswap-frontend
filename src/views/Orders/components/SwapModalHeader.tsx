@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
-import { Trade } from '@apeswapfinance/sdk'
-import { Text, ArrowDownIcon } from '@apeswapfinance/uikit'
+import { Trade } from 'soulswap-sdk'
+import { Text, ArrowDownIcon } from 'soulswap-uikit'
 import { computeTradePriceBreakdown, warningSeverity } from 'utils/prices'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { AutoColumn } from 'components/layout/Column'

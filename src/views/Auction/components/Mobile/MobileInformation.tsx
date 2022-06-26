@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, ArrowDropDownIcon, ArrowDropUpIcon } from '@apeswapfinance/uikit'
+import { Text, ArrowDropDownIcon, ArrowDropUpIcon } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface MobileInformationProps {

@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { Address } from 'config/constants/types'
 import BigNumber from 'bignumber.js'
-import { Flex } from '@apeswapfinance/uikit'
+import { Flex } from 'soulswap-uikit'
 
 import ApyButton from '../../../../components/ApyCalculator/ApyButton'
 import { useTranslation } from '../../../../contexts/Localization'

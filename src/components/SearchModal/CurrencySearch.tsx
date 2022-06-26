@@ -1,6 +1,6 @@
 import React, { KeyboardEvent, useCallback, useMemo, useRef, useState } from 'react'
-import { Currency, ETHER, Token } from '@apeswapfinance/sdk'
-import { Text, Input, Flex } from '@apeswapfinance/uikit'
+import { Currency, ETHER, Token } from 'soulswap-sdk'
+import { Text, Input, Flex } from 'soulswap-uikit'
 import { FixedSizeList } from 'react-window'
 import styled from '@emotion/styled'
 import useDebounce from 'hooks/useDebounce'

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Heading, Text, Button } from '@apeswapfinance/uikit'
+import { Heading, Text, Button } from 'soulswap-uikit'
 import { Box } from 'theme-ui'
 
 export const UtilityCon = styled.div`

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex, useMatchBreakpoints } from '@apeswapfinance/uikit'
+import { Flex, useMatchBreakpoints } from 'soulswap-uikit'
 import ListView from 'components/ListView'
 import { Bills } from 'state/types'
 import { ExtendedListViewProps } from 'components/ListView/types'

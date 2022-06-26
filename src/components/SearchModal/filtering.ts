@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Token } from '@apeswapfinance/sdk'
+import { Token } from 'soulswap-sdk'
 import { isAddress } from '../../utils'
 
 export function filterTokens(tokens: Token[], search: string): Token[] {

@@ -1,5 +1,5 @@
 import React, { useCallback, useMemo, useState } from 'react'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 import BigNumber from 'bignumber.js'
 import { ethers } from 'ethers'
 import { getFullDisplayBalance } from 'utils/formatBalance'

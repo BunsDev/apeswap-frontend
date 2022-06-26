@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { AutoRenewIcon } from '@apeswapfinance/uikit'
+import { AutoRenewIcon } from 'soulswap-uikit'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useToast } from 'state/hooks'
 import { updateUserAllowance } from 'state/bills'

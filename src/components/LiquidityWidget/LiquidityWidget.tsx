@@ -1,10 +1,10 @@
 /** @jsxImportSource theme-ui */
 import React, { useCallback, useState } from 'react'
 import { AddIcon, Button } from '@ape.swap/uikit'
-import { useModal } from '@apeswapfinance/uikit'
+import { useModal } from 'soulswap-uikit'
 import { Box, Flex, Text } from 'theme-ui'
 import { BigNumber } from '@ethersproject/bignumber'
-import { Currency, ETHER, TokenAmount, ROUTER_ADDRESS, CurrencyAmount } from '@apeswapfinance/sdk'
+import { Currency, ETHER, TokenAmount, ROUTER_ADDRESS, CurrencyAmount } from 'soulswap-sdk'
 import { TransactionResponse } from '@ethersproject/providers'
 import UnsupportedCurrencyFooter from 'components/UnsupportedCurrencyFooter'
 import track from 'utils/track'

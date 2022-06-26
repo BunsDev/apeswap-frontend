@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex } from '@apeswapfinance/uikit'
+import { Flex } from 'soulswap-uikit'
 import Footer from 'components/Footer/Footer'
 
 const StyledPage = styled.div<{ $removePadding: boolean }>`

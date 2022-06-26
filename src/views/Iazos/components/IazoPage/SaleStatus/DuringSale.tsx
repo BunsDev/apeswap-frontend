@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react'
-import { Skeleton } from '@apeswapfinance/uikit'
+import { Skeleton } from 'soulswap-uikit'
 import { IazoStatus, IazoTimeInfo, IazoTokenInfo } from 'state/types'
 import { getBalanceNumber } from 'utils/formatBalance'
 import UnlockButton from 'components/UnlockButton'

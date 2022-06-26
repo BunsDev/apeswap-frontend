@@ -1,6 +1,6 @@
 import React, { useCallback, useState } from 'react'
-import { Currency, Token } from '@apeswapfinance/sdk'
-import { ModalProps, Button, Modal, ModalFooter } from '@apeswapfinance/uikit'
+import { Currency, Token } from 'soulswap-sdk'
+import { ModalProps, Button, Modal, ModalFooter } from 'soulswap-uikit'
 import useIsMobile from 'hooks/useIsMobile'
 import styled from 'styled-components'
 import { TokenList } from '@uniswap/token-lists'

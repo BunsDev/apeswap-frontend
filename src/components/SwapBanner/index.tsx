@@ -3,7 +3,7 @@ import { useFetchSwapBanners } from 'state/strapi/fetchStrapi'
 import styled from 'styled-components'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import SwiperCore, { Autoplay } from 'swiper'
-import { Flex } from '@apeswapfinance/uikit'
+import { Flex } from 'soulswap-uikit'
 import 'swiper/swiper.min.css'
 import { useLocation } from 'react-router-dom'
 

@@ -1,4 +1,4 @@
-import { Flex, Button } from '@apeswapfinance/uikit'
+import { Flex, Button } from 'soulswap-uikit'
 import styled from '@emotion/styled'
 
 export const StyledSwapContainer = styled(Flex)`

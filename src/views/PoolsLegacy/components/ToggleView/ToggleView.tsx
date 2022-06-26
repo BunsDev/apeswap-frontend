@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { ListViewIcon, CardViewIcon, Flex } from '@apeswapfinance/uikit'
+import { ListViewIcon, CardViewIcon, Flex } from 'soulswap-uikit'
 import { ViewMode } from '../types'
 
 interface ToggleViewProps {

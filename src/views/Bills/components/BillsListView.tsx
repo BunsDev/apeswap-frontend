@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex, useMatchBreakpoints, Text } from '@apeswapfinance/uikit'
+import { Flex, useMatchBreakpoints, Text } from 'soulswap-uikit'
 import ListView from 'components/ListView'
 import { Bills } from 'state/types'
 import UnlockButton from 'components/UnlockButton'

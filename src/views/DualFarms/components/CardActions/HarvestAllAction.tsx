@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useAllHarvest } from 'hooks/useHarvest'
-import { AutoRenewIcon, Button } from '@apeswapfinance/uikit'
+import { AutoRenewIcon, Button } from 'soulswap-uikit'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTranslation } from 'contexts/Localization'
 import { ActionContainer } from './styles'

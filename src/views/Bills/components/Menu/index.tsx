@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex, Select, SelectItem, Text } from '@apeswapfinance/uikit'
+import { Flex, Select, SelectItem, Text } from 'soulswap-uikit'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'contexts/Localization'

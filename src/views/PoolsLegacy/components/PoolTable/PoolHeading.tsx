@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Image } from '@apeswapfinance/uikit'
+import { Text, Image } from 'soulswap-uikit'
 
 export interface PoolProps {
   stakeToken?: string

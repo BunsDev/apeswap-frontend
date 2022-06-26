@@ -1,7 +1,7 @@
 import React from 'react'
 import BigNumber from 'bignumber.js'
 import styled from 'styled-components'
-import { Flex } from '@apeswapfinance/uikit'
+import { Flex } from 'soulswap-uikit'
 import { FarmPool } from 'state/types'
 import { getBalanceNumber } from 'utils/formatBalance'
 import getTimePeriods from 'utils/getTimePeriods'

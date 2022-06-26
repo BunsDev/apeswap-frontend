@@ -1,7 +1,7 @@
 import { useEffect, useMemo } from 'react'
 import BigNumber from 'bignumber.js'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
-import { Toast, toastTypes } from '@apeswapfinance/uikit'
+import { Toast, toastTypes } from 'soulswap-uikit'
 import { useSelector } from 'react-redux'
 import useRefresh from 'hooks/useRefresh'
 import { useLiquidityData } from 'hooks/api'

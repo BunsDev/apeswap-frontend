@@ -1,4 +1,4 @@
-import { Checkbox, Flex, Input, Modal, ModalFooter, Text } from '@apeswapfinance/uikit'
+import { Checkbox, Flex, Input, Modal, ModalFooter, Text } from 'soulswap-uikit'
 import BigNumber from 'bignumber.js'
 import ServiceTokenDisplay from 'components/ServiceTokenDisplay'
 import React, { useState } from 'react'

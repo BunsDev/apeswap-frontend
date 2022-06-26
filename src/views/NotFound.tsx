@@ -1,6 +1,6 @@
 import React from 'react'
 import styled, { useTheme } from 'styled-components'
-import { Button, Heading, Text } from '@apeswapfinance/uikit'
+import { Button, Heading, Text } from 'soulswap-uikit'
 import Page from 'components/layout/Page'
 import { useTranslation } from 'contexts/Localization'
 

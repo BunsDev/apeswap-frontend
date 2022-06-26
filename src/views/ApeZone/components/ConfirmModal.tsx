@@ -1,5 +1,5 @@
 import React from 'react'
-import { Modal, Button } from '@apeswapfinance/uikit'
+import { Modal, Button } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 
 import { Description } from './styles'

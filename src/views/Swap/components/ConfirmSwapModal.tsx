@@ -1,6 +1,6 @@
 import React, { useCallback, useMemo } from 'react'
-import { currencyEquals, Trade } from '@apeswapfinance/sdk'
-import { ModalProps } from '@apeswapfinance/uikit'
+import { currencyEquals, Trade } from 'soulswap-sdk'
+import { ModalProps } from 'soulswap-uikit'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,
   TransactionErrorContent,

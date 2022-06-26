@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Skeleton, AutoRenewIcon } from '@apeswapfinance/uikit'
+import { Skeleton, AutoRenewIcon } from 'soulswap-uikit'
 import { useApprove } from 'hooks/useApprove'
 import { updateFarmUserAllowances } from 'state/farms'
 import { useAppDispatch } from 'state'

@@ -1,6 +1,6 @@
 import React from 'react'
-import { Currency, CurrencyAmount, Fraction, Percent } from '@apeswapfinance/sdk'
-import { Button, Text } from '@apeswapfinance/uikit'
+import { Currency, CurrencyAmount, Fraction, Percent } from 'soulswap-sdk'
+import { Button, Text } from 'soulswap-uikit'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTranslation } from 'contexts/Localization'
 import { RowBetween, RowFixed } from '../../components/layout/Row'

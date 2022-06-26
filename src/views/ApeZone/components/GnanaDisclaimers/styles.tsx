@@ -1,4 +1,4 @@
-import { Heading, Button, Text } from '@apeswapfinance/uikit'
+import { Heading, Button, Text } from 'soulswap-uikit'
 import styled from '@emotion/styled'
 
 export const Container = styled.div`

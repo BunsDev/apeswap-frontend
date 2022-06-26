@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@apeswapfinance/sdk'
+import { Token, TokenAmount } from 'soulswap-sdk'
 import { useMemo } from 'react'
 
 import { useTokenContract } from './useContract'

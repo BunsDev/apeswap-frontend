@@ -1,6 +1,6 @@
 import React from 'react'
-import { Trade, TradeType } from '@apeswapfinance/sdk'
-import { Text } from '@apeswapfinance/uikit'
+import { Trade, TradeType } from 'soulswap-sdk'
+import { Text } from 'soulswap-uikit'
 import { Field } from 'state/swap/actions'
 import { useUserSlippageTolerance } from 'state/user/hooks'
 import { computeSlippageAdjustedAmounts, computeTradePriceBreakdown } from 'utils/prices'

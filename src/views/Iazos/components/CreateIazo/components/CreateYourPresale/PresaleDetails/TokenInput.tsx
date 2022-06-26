@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { Text, Image, TooltipBubble, InfoIcon } from '@apeswapfinance/uikit'
+import { Text, Image, TooltipBubble, InfoIcon } from 'soulswap-uikit'
 import { useToast } from 'state/hooks'
 import { useTranslation } from 'contexts/Localization'
 

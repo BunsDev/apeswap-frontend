@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import styled from 'styled-components'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 import { getBalanceNumber } from 'utils/formatBalance'
 import useTokenBalance from 'hooks/useTokenBalance'
 import BigNumber from 'bignumber.js'

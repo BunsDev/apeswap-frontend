@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card } from '@apeswapfinance/uikit'
+import { Card } from 'soulswap-uikit'
 
 export const StyledIfoCard = styled(Card)<{ ifoId: string }>`
   margin-left: auto;

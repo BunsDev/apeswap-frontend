@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react'
 import styled from 'styled-components'
-import { Button, Text, Link, Flex, Checkbox, Card } from '@apeswapfinance/uikit'
+import { Button, Text, Link, Flex, Checkbox, Card } from 'soulswap-uikit'
 import { AutoColumn } from 'components/layout/Column'
 import { RowBetween, RowFixed } from 'components/layout/Row'
 import useTheme from 'hooks/useTheme'

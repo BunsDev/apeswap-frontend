@@ -1,5 +1,5 @@
 import styled, { keyframes } from 'styled-components'
-import { Heading } from '@apeswapfinance/uikit'
+import { Heading } from 'soulswap-uikit'
 
 const float = keyframes`
   0% {transform: translate3d(0px, 0px, 0px);}

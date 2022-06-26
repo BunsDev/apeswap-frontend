@@ -1,4 +1,4 @@
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 import styled from 'styled-components'
 import { FadeIn } from '../../styles'
 

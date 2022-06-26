@@ -1,6 +1,6 @@
 import React, { CSSProperties } from 'react'
-import { Token } from '@apeswapfinance/sdk'
-import { Button, Text, CheckmarkCircleIcon } from '@apeswapfinance/uikit'
+import { Token } from 'soulswap-sdk'
+import { Button, Text, CheckmarkCircleIcon } from 'soulswap-uikit'
 import CurrencyLogo from 'components/Logo/CurrencyLogo'
 import { ListLogo } from 'components/Logo'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

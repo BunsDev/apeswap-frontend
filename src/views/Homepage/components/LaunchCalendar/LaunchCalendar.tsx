@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { Flex, Skeleton, Text } from '@apeswapfinance/uikit'
+import { Flex, Skeleton, Text } from 'soulswap-uikit'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import useIntersectionObserver from 'hooks/useIntersectionObserver'
 import SwiperCore from 'swiper'

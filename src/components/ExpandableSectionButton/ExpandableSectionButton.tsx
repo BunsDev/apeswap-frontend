@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
-import { ArrowDropDownIcon, ArrowDropUpIcon, Text } from '@apeswapfinance/uikit'
+import { ArrowDropDownIcon, ArrowDropUpIcon, Text } from 'soulswap-uikit'
 
 export interface ExpandableSectionButtonProps {
   onClick?: () => void

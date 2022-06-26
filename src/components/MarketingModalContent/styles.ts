@@ -14,7 +14,7 @@ import {
   PoolsM3Icon,
   PoolsM4Icon,
   Text,
-} from '@apeswapfinance/uikit'
+} from 'soulswap-uikit'
 
 export const ModalBody = styled.div`
   display: flex;

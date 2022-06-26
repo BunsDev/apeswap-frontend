@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 
 export const StyledProgress = styled.div`
   margin-bottom: 16px;

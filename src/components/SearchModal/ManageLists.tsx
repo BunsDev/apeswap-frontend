@@ -1,5 +1,5 @@
 import React, { memo, useCallback, useMemo, useState, useEffect } from 'react'
-import { Button, Text, CheckmarkIcon, CogIcon, Input, Toggle, Card } from '@apeswapfinance/uikit'
+import { Button, Text, CheckmarkIcon, CogIcon, Input, Toggle, Card } from 'soulswap-uikit'
 import { useDispatch, useSelector } from 'react-redux'
 import styled from '@emotion/styled'
 import { TokenList } from '@uniswap/token-lists'

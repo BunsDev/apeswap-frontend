@@ -1,5 +1,5 @@
 import React, { useCallback, useState, useEffect } from 'react'
-import { Button, Modal, AutoRenewIcon, Text } from '@apeswapfinance/uikit'
+import { Button, Modal, AutoRenewIcon, Text } from 'soulswap-uikit'
 import { useNfaAllowance } from 'hooks/useAllowance'
 import { useAuctionApprove } from 'hooks/useApprove'
 import { useAuctionAddress } from 'hooks/useAddress'

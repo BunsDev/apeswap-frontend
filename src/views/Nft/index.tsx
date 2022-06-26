@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Spinner, Flex } from '@apeswapfinance/uikit'
+import { Text, Spinner, Flex } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 import Banner from 'components/Banner'
 import Page from 'components/layout/Page'

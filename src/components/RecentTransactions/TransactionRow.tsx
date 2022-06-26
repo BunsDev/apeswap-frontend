@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from '@emotion/styled'
-import { BlockIcon, CheckmarkCircleIcon, Flex, OpenNewIcon, AutoRenewIcon } from '@apeswapfinance/uikit'
+import { BlockIcon, CheckmarkCircleIcon, Flex, OpenNewIcon, AutoRenewIcon } from 'soulswap-uikit'
 import { TransactionDetails } from 'state/transactions/reducer'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { getEtherscanLink } from 'utils'

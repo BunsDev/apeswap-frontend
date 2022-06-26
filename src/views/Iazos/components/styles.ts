@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 
 export const BoldAfterText = styled(Text)<{ boldContent?: string }>`
   font-weight: 400;

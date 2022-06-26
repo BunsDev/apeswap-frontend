@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Text, Flex, Checkbox, Button } from '@apeswapfinance/uikit'
+import { Text, Flex, Checkbox, Button } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface AcknowledgementProps {

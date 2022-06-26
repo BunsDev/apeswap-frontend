@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Image, useMatchBreakpoints } from '@apeswapfinance/uikit'
+import { Image, useMatchBreakpoints } from 'soulswap-uikit'
 
 interface StatsImageCard {
   type: string

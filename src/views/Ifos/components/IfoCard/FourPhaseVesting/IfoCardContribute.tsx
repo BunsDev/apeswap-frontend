@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 import BigNumber from 'bignumber.js'
 import getTimePeriods from 'utils/getTimePeriods'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

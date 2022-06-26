@@ -2,7 +2,7 @@
 import React from 'react'
 import BigNumber from 'bignumber.js'
 import styled from '@emotion/styled'
-import { Flex, Skeleton, Text, Image, useMatchBreakpoints } from '@apeswapfinance/uikit'
+import { Flex, Skeleton, Text, Image, useMatchBreakpoints } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useWeb3React } from '@web3-react/core'
 import { Pool } from 'state/types'

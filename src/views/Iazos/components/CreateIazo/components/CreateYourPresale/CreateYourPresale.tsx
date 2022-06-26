@@ -1,6 +1,6 @@
 import React, { useCallback, useState } from 'react'
 import styled from 'styled-components'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 import { useWeb3React } from '@web3-react/core'
 import UnlockButton from 'components/UnlockButton'
 import { IazoDefaultSettings } from 'state/types'

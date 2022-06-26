@@ -1,4 +1,4 @@
-import { MenuEntry } from '@apeswapfinance/uikit'
+import { MenuEntry } from 'soulswap-uikit'
 import { CHAIN_ID, NETWORK_INFO_LINK } from 'config/constants/chains'
 import { EXCHANGE } from '../constants'
 import { ContextApi } from '../../../contexts/Localization/types'

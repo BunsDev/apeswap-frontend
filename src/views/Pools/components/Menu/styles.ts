@@ -1,4 +1,4 @@
-import { Text, Flex } from '@apeswapfinance/uikit'
+import { Text, Flex } from 'soulswap-uikit'
 import { Button } from '@ape.swap/uikit'
 import styled from '@emotion/styled'
 

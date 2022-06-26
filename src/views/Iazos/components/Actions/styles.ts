@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Button, Text } from '@apeswapfinance/uikit'
+import { Button, Text } from 'soulswap-uikit'
 
 const StyledButton = styled(Button)`
   height: 50px;

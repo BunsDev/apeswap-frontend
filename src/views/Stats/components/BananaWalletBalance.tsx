@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 import { useWeb3React } from '@web3-react/core'
 import useTokenBalance from 'hooks/useTokenBalance'
 import { useTranslation } from 'contexts/Localization'

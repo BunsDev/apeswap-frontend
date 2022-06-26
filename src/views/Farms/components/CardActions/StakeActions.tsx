@@ -8,7 +8,7 @@ import {
   LinkExternal,
   Text,
   useMatchBreakpoints,
-} from '@apeswapfinance/uikit'
+} from 'soulswap-uikit'
 import BigNumber from 'bignumber.js'
 import { getBalanceNumber } from 'utils/formatBalance'
 import useStake from 'hooks/useStake'

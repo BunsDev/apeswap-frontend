@@ -1,5 +1,5 @@
 import React from 'react'
-import { ArrowDropUpIcon, Flex, Text } from '@apeswapfinance/uikit'
+import { ArrowDropUpIcon, Flex, Text } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 import StyledInternalLink from './index'
 

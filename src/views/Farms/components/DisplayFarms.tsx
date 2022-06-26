@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex, Text, LinkExternal, Svg, useModal } from '@apeswapfinance/uikit'
+import { Flex, Text, LinkExternal, Svg, useModal } from 'soulswap-uikit'
 import { TagVariants } from '@ape.swap/uikit'
 import { Box } from 'theme-ui'
 import ListView from 'components/ListView'

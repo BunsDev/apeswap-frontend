@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Button, Modal, AutoRenewIcon, Text } from '@apeswapfinance/uikit'
+import { Button, Modal, AutoRenewIcon, Text } from 'soulswap-uikit'
 import Image from 'views/Nft/components/Image'
 import styled from 'styled-components'
 import ModalActions from 'components/ModalActions'

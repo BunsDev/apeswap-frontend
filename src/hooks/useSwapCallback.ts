@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { Contract } from '@ethersproject/contracts'
-import { JSBI, Percent, Router, SwapParameters, Trade, TradeType } from '@apeswapfinance/sdk'
+import { JSBI, Percent, Router, SwapParameters, Trade, TradeType } from 'soulswap-sdk'
 import { useMemo } from 'react'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import truncateHash from 'utils/truncateHash'

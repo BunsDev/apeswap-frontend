@@ -1,5 +1,5 @@
 import React from 'react'
-import { CogIcon, useModal, Button } from '@apeswapfinance/uikit'
+import { CogIcon, useModal, Button } from 'soulswap-uikit'
 import SettingsModal from './SettingsModal'
 import useIsMobile from '../../../hooks/useIsMobile'
 

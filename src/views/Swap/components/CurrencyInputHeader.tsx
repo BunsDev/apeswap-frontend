@@ -1,7 +1,7 @@
 /** @jsxImportSource theme-ui */
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, useMatchBreakpoints, Tabs, Tab } from '@apeswapfinance/uikit'
+import { Flex, useMatchBreakpoints, Tabs, Tab } from 'soulswap-uikit'
 import { RunFiatButton, Button } from '@ape.swap/uikit'
 import GlobalSettings from 'components/Menu/GlobalSettings'
 import { CHAIN_ID } from 'config/constants/chains'

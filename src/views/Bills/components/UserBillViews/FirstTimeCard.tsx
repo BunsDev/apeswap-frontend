@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 import BillsDiagram from 'components/MarketingModalContent/Bills/BillsDiagram'
 import ReactPlayer from 'react-player'
 import React from 'react'

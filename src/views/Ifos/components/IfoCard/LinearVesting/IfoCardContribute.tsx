@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 import { useSafeIfoContract } from 'hooks/useContract'
 import { useIfoAllowance } from 'hooks/useAllowance'
 import { useIfoApprove } from 'hooks/useApprove'

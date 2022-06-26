@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { Text, Flex, Modal, ModalProps, ButtonMenu, ButtonMenuItem } from '@apeswapfinance/uikit'
+import { Text, Flex, Modal, ModalProps, ButtonMenu, ButtonMenuItem } from 'soulswap-uikit'
 import {
   useExpertModeManager,
   useUserExpertModeAcknowledgementShow,

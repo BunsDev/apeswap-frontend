@@ -1,7 +1,7 @@
 import React, { useState, useCallback } from 'react'
 import styled from 'styled-components'
 import { Nft } from 'config/constants/types'
-import { Text, Button, AutoRenewIcon } from '@apeswapfinance/uikit'
+import { Text, Button, AutoRenewIcon } from 'soulswap-uikit'
 import { useWeb3React } from '@web3-react/core'
 import useRemoveAuction from 'hooks/useRemoveAuction'
 import { useTranslation } from 'contexts/Localization'

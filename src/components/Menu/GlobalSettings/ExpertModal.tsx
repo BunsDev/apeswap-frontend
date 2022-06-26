@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Text, Flex, Modal, ModalProps, Checkbox, Button } from '@apeswapfinance/uikit'
+import { Text, Flex, Modal, ModalProps, Checkbox, Button } from 'soulswap-uikit'
 import { useExpertModeManager } from 'state/user/hooks'
 import { useTranslation } from 'contexts/Localization'
 import UnderlinedButton from 'components/UnderlinedButton'

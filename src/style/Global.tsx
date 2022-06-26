@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components'
 // eslint-disable-next-line import/no-unresolved
-import { ApeSwapTheme } from '@apeswapfinance/uikit/dist/theme'
+import { ApeSwapTheme } from 'soulswap-uikit/dist/theme'
 
 declare module 'styled-components' {
   /* eslint-disable @typescript-eslint/no-empty-interface */

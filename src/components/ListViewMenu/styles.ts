@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Checkbox, Heading, Flex } from '@apeswapfinance/uikit'
+import { Text, Checkbox, Heading, Flex } from 'soulswap-uikit'
 
 export const ControlContainer = styled(Flex)`
   position: relative;

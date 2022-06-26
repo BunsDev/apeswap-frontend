@@ -1,4 +1,4 @@
-import { JSBI, Percent, Token, ChainId, WETH } from '@apeswapfinance/sdk'
+import { JSBI, Percent, Token, ChainId, WETH } from 'soulswap-sdk'
 
 import farms from './farms'
 

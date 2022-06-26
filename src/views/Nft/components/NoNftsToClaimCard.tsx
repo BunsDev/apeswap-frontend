@@ -1,5 +1,5 @@
 import React from 'react'
-import { Heading, Text } from '@apeswapfinance/uikit'
+import { Heading, Text } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 import SecondaryCard from './SecondaryCard'
 import CardContent from './CardContent'

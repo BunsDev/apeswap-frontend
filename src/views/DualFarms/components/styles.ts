@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { Tag } from '@ape.swap/uikit'
-import { Button, ArrowDropUpIcon, Flex } from '@apeswapfinance/uikit'
+import { Button, ArrowDropUpIcon, Flex } from 'soulswap-uikit'
 
 export const FarmButton = styled(Button)`
   border-radius: 10px;

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
-import { Text, ArrowBackIcon, ArrowForwardIcon } from '@apeswapfinance/uikit'
+import { Text, ArrowBackIcon, ArrowForwardIcon } from 'soulswap-uikit'
 import BigNumber from 'bignumber.js'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { useGetNfaAuctionHistory } from 'hooks/api'

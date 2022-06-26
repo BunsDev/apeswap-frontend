@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Card, Text, Button, ArrowDropDownIcon } from '@apeswapfinance/uikit'
+import { Card, Text, Button, ArrowDropDownIcon } from 'soulswap-uikit'
 import styled from 'styled-components'
 
 interface DropdownProps {

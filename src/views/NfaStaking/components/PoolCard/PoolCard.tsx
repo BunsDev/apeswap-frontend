@@ -1,7 +1,7 @@
 import BigNumber from 'bignumber.js'
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { Flex } from '@apeswapfinance/uikit'
+import { Flex } from 'soulswap-uikit'
 import { useBlock } from 'state/block/hooks'
 import { useWeb3React } from '@web3-react/core'
 import { getBalanceNumber } from 'utils/formatBalance'

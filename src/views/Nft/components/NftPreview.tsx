@@ -1,6 +1,6 @@
 import React from 'react'
 import orderBy from 'lodash/orderBy'
-import { Card, Heading } from '@apeswapfinance/uikit'
+import { Card, Heading } from 'soulswap-uikit'
 import { Box } from 'theme-ui'
 import Container from 'components/layout/Container'
 import { useFetchNfas, useNfas } from 'state/hooks'

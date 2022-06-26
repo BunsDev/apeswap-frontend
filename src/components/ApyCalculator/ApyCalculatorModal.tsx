@@ -1,7 +1,7 @@
 import React from 'react'
 import BigNumber from 'bignumber.js'
 import styled from 'styled-components'
-import { Modal, Text, LinkExternal, Flex } from '@apeswapfinance/uikit'
+import { Modal, Text, LinkExternal, Flex } from 'soulswap-uikit'
 
 import { calculateBananaEarnedPerThousandDollars, apyModalRoi } from 'utils/compoundApyHelpers'
 import { useTranslation } from 'contexts/Localization'

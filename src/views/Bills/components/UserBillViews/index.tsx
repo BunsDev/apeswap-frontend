@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { ArrowDropLeftIcon, ArrowDropRightIcon, Checkbox, Flex, Text } from '@apeswapfinance/uikit'
+import { ArrowDropLeftIcon, ArrowDropRightIcon, Checkbox, Flex, Text } from 'soulswap-uikit'
 import SwiperProvider from 'contexts/SwiperProvider'
 import { Bills } from 'state/types'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

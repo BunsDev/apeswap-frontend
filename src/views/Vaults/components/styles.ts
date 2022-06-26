@@ -1,4 +1,4 @@
-import { ArrowDropUpIcon } from '@apeswapfinance/uikit'
+import { ArrowDropUpIcon } from 'soulswap-uikit'
 import { Button, Flex, Tag } from '@ape.swap/uikit'
 import styled from '@emotion/styled'
 

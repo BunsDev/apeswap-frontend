@@ -1,6 +1,6 @@
 import React from 'react'
-import { Currency, Token } from '@apeswapfinance/sdk'
-import { Button, Text, Modal, useModal, ModalProps, Link } from '@apeswapfinance/uikit'
+import { Currency, Token } from 'soulswap-sdk'
+import { Button, Text, Modal, useModal, ModalProps, Link } from 'soulswap-uikit'
 import styled from 'styled-components'
 import { AutoRow } from 'components/layout/Row'
 import { AutoColumn } from 'components/layout/Column'

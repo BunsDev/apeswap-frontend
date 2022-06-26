@@ -5,7 +5,7 @@ import { Contract } from '@ethersproject/contracts'
 import { AddressZero } from '@ethersproject/constants'
 import { JsonRpcSigner, Web3Provider } from '@ethersproject/providers'
 import { abi as IUniswapV2Router02ABI } from '@uniswap/v2-periphery/build/IUniswapV2Router02.json'
-import { JSBI, Percent, Token, CurrencyAmount, Currency, ETHER, ROUTER_ADDRESS } from '@apeswapfinance/sdk'
+import { JSBI, Percent, Token, CurrencyAmount, Currency, ETHER, ROUTER_ADDRESS } from 'soulswap-sdk'
 import { parseAddress } from 'hooks/useAddress'
 import { TokenAddressMap } from '../state/lists/hooks'
 

@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import useTheme from 'hooks/useTheme'
-import { Text, Button } from '@apeswapfinance/uikit'
+import { Text, Button } from 'soulswap-uikit'
 import CheckMarkIcon from './Icons/CheckMarkIcon'
 import CalendarIcon from './Icons/CalendarIcon'
 import GraphIcon from './Icons/GraphIcon'

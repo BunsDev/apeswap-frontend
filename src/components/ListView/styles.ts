@@ -1,5 +1,5 @@
 import { ThemeUIStyleObject } from 'theme-ui'
-import { ArrowDropDownIcon, Flex, Text } from '@apeswapfinance/uikit'
+import { ArrowDropDownIcon, Flex, Text } from 'soulswap-uikit'
 import styled, { keyframes } from 'styled-components'
 
 export const styles: Record<string, ThemeUIStyleObject> = {

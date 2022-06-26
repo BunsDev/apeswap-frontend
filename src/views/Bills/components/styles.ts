@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Button, ArrowDropUpIcon, Flex } from '@apeswapfinance/uikit'
+import { Button, ArrowDropUpIcon, Flex } from 'soulswap-uikit'
 
 export const StyledButton = styled(Button)<{ buttonSize?: number }>`
   border-radius: 10px;

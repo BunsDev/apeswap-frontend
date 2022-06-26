@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import { JSBI, Pair, Percent } from '@apeswapfinance/sdk'
-import { Text, Card, Flex, CardProps, Button, ArrowDropDownIcon, ArrowDropUpIcon } from '@apeswapfinance/uikit'
+import { JSBI, Pair, Percent } from 'soulswap-sdk'
+import { Text, Card, Flex, CardProps, Button, ArrowDropDownIcon, ArrowDropUpIcon } from 'soulswap-uikit'
 import { Link } from 'react-router-dom'
 import { Box } from 'theme-ui'
 import styled from 'styled-components'

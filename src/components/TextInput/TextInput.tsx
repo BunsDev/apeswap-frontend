@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import styled from 'styled-components'
 import { useToast } from 'state/hooks'
-import { AutoRenewIcon, Text } from '@apeswapfinance/uikit'
+import { AutoRenewIcon, Text } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface TextInputProps {

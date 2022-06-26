@@ -1,5 +1,5 @@
 import React from 'react'
-import { PFarmingIcon, XPoolsIcon, GovernanceIcon, IaoIcon } from '@apeswapfinance/uikit'
+import { PFarmingIcon, XPoolsIcon, GovernanceIcon, IaoIcon } from 'soulswap-uikit'
 import useTheme from 'hooks/useTheme'
 import { useTranslation } from 'contexts/Localization'
 

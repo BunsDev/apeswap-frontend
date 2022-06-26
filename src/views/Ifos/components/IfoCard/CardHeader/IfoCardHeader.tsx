@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { IfoStatus } from 'config/constants/types'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 
 import { useTranslation } from 'contexts/Localization'
 import { StyledIfoCardHeader, Stack, Title } from './styles'

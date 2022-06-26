@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import { Token } from '@apeswapfinance/sdk'
-import { ButtonMenu, ButtonMenuItem } from '@apeswapfinance/uikit'
+import { Token } from 'soulswap-sdk'
+import { ButtonMenu, ButtonMenuItem } from 'soulswap-uikit'
 import { TokenList } from '@uniswap/token-lists'
 import { useTranslation } from 'contexts/Localization'
 import ManageLists from './ManageLists'

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 import { LeftArrow, RightArrow } from 'components/Icons'
 import { Swiper } from 'swiper/react'
 

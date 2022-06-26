@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { AutoRenewIcon, Flex, Text, useModal } from '@apeswapfinance/uikit'
+import { AutoRenewIcon, Flex, Text, useModal } from 'soulswap-uikit'
 import { LiquidityModal } from 'components/LiquidityWidget'
 import { getFullDisplayBalance } from 'utils/formatBalance'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

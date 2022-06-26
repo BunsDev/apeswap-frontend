@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, BaseLayout, Text, Card } from '@apeswapfinance/uikit'
+import { Heading, BaseLayout, Text, Card } from 'soulswap-uikit'
 import { useTranslation } from 'contexts/Localization'
 import Page from 'components/layout/Page'
 import { useFetchStats, useFetchStatsOverall, useStats } from 'state/statsOverall/hooks'

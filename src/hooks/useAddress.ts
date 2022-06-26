@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import addresses from 'config/constants/contracts'
 import { Address } from 'config/constants/types'
-import { ChainId } from '@apeswapfinance/sdk'
+import { ChainId } from 'soulswap-sdk'
 import useActiveWeb3React from './useActiveWeb3React'
 
 export const parseAddress = (currAddress: Address, chainId: ChainId) => {

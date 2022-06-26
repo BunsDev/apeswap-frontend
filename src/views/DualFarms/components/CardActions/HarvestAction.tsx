@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useMiniChefHarvest } from 'hooks/useHarvest'
-import { AutoRenewIcon, useMatchBreakpoints } from '@apeswapfinance/uikit'
+import { AutoRenewIcon, useMatchBreakpoints } from 'soulswap-uikit'
 import { useToast } from 'state/hooks'
 import { getEtherscanLink } from 'utils'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

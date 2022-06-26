@@ -1,6 +1,6 @@
 import { ThunkAction } from 'redux-thunk'
 import { AnyAction } from '@reduxjs/toolkit'
-import { Toast } from '@apeswapfinance/uikit'
+import { Toast } from 'soulswap-uikit'
 import BigNumber from 'bignumber.js'
 import {
   Address,

@@ -1,6 +1,6 @@
 import React, { useCallback, useState, useRef } from 'react'
 import styled from 'styled-components'
-import { Skeleton, Button } from '@apeswapfinance/uikit'
+import { Skeleton, Button } from 'soulswap-uikit'
 import { useSousApprove } from 'hooks/useApprove'
 import { useERC20 } from 'hooks/useContract'
 import { useTranslation } from 'contexts/Localization'

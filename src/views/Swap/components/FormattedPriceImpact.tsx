@@ -1,4 +1,4 @@
-import { Percent } from '@apeswapfinance/sdk'
+import { Percent } from 'soulswap-sdk'
 import React from 'react'
 import { warningSeverity } from 'utils/prices'
 import { ONE_BIPS } from '../../../config/constants'

@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react'
-import { Button } from '@apeswapfinance/uikit'
+import { Button } from 'soulswap-uikit'
 import styled from 'styled-components'
 import useReward from 'hooks/useReward'
 import useBid from 'hooks/useBid'

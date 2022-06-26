@@ -1,4 +1,4 @@
-import { ArrowDropUpSmallIcon, Skeleton } from '@apeswapfinance/uikit'
+import { ArrowDropUpSmallIcon, Skeleton } from 'soulswap-uikit'
 import Logo from 'components/Logo/Logo'
 import styled from 'styled-components'
 

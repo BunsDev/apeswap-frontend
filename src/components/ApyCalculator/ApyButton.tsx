@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { CalculateIcon, useModal } from '@apeswapfinance/uikit'
+import { CalculateIcon, useModal } from 'soulswap-uikit'
 import ApyCalculatorModal from './ApyCalculatorModal'
 
 export interface ApyButtonProps {

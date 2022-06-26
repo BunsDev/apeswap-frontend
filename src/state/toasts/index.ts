@@ -1,5 +1,5 @@
 /* eslint-disable no-param-reassign */
-import { Toast } from '@apeswapfinance/uikit'
+import { Toast } from 'soulswap-uikit'
 import { createSlice, PayloadAction } from '@reduxjs/toolkit'
 import { ToastsState } from '../types'
 

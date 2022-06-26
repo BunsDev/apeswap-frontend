@@ -1,5 +1,5 @@
 import React, { useState, useCallback, useEffect } from 'react'
-import { useMatchBreakpoints, Text } from '@apeswapfinance/uikit'
+import { useMatchBreakpoints, Text } from 'soulswap-uikit'
 import useTheme from 'hooks/useTheme'
 import TextInput from 'components/TextInput'
 import useERC20Details from 'hooks/useERC20Details'

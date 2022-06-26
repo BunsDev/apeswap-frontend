@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import { Token, Currency } from '@apeswapfinance/sdk'
-import { Button, Text, ErrorIcon, Flex, Checkbox, Link, Tag } from '@apeswapfinance/uikit'
+import { Token, Currency } from 'soulswap-sdk'
+import { Button, Text, ErrorIcon, Flex, Checkbox, Link, Tag } from 'soulswap-uikit'
 import { AutoColumn } from 'components/layout/Column'
 import { useAddUserToken } from 'state/user/hooks'
 import { getEtherscanLink } from 'utils'

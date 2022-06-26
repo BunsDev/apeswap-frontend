@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Image, LinkExternal } from '@apeswapfinance/uikit'
+import { Text, Image, LinkExternal } from 'soulswap-uikit'
 import { UpArrow, DownArrow } from 'components/Icons'
 
 export const StyledIfoCardDescription = styled.div`

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { ThemeProvider as SCThemeProvider } from 'styled-components'
-import { light, dark } from '@apeswapfinance/uikit'
+import { light, dark } from 'soulswap-uikit'
 import { Apeswap } from '@ape.swap/uikit'
 import { ThemeProvider as ThemeUIProvider } from 'theme-ui'
 

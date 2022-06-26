@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { useCurrentTime } from 'hooks/useTimer'
 import getTimePeriods from 'utils/getTimePeriods'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from 'soulswap-uikit'
 import { IazoTimeInfo } from 'state/types'
 import { useTranslation } from 'contexts/Localization'
 

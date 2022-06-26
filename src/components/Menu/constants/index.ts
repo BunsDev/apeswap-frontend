@@ -1,5 +1,5 @@
 import { ContextApi } from 'contexts/Localization/types'
-import { MenuEntry } from '@apeswapfinance/uikit'
+import { MenuEntry } from 'soulswap-uikit'
 
 export const HOME: (t: ContextApi['t']) => MenuEntry = (t) => ({
   label: t('Home'),

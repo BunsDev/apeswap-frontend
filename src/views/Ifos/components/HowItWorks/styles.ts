@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Heading } from '@apeswapfinance/uikit'
+import { Text, Heading } from 'soulswap-uikit'
 
 export const StyledText = styled(Text)`
   font-weight: 300;

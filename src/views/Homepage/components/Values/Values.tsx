@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { Flex, Text, useMatchBreakpoints, Skeleton } from '@apeswapfinance/uikit'
+import { Flex, Text, useMatchBreakpoints, Skeleton } from 'soulswap-uikit'
 import SwiperCore, { Autoplay } from 'swiper'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import useSwiper from 'hooks/useSwiper'

@@ -1,5 +1,5 @@
 import React from 'react'
-import { ModalContentProps } from '@apeswapfinance/uikit'
+import { ModalContentProps } from 'soulswap-uikit'
 import { ModalBody } from './styles'
 
 const ModalContent: React.FC<ModalContentProps> = ({ Icon, children }) => {

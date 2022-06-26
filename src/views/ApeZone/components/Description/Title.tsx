@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Heading } from '@apeswapfinance/uikit'
+import { Heading } from 'soulswap-uikit'
 
 interface HeadingProps {
   fontWeight?: number

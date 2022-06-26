@@ -1,5 +1,5 @@
 import React from 'react'
-import { Modal, ModalProps, Text } from '@apeswapfinance/uikit'
+import { Modal, ModalProps, Text } from 'soulswap-uikit'
 import MoonPayIframe from './MoonFrame'
 
 export default function MoonPayModal({ onDismiss }: ModalProps) {

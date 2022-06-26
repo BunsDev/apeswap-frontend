@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { AutoRenewIcon } from '@apeswapfinance/uikit'
+import { AutoRenewIcon } from 'soulswap-uikit'
 import useClaimIazo from 'views/Iazos/hooks/useClaimIazo'
 import { IazoState } from 'state/types'
 import { useTranslation } from 'contexts/Localization'

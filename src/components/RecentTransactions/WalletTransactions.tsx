@@ -1,6 +1,6 @@
 import React from 'react'
 import { useDispatch } from 'react-redux'
-import { Button, Flex, Text } from '@apeswapfinance/uikit'
+import { Button, Flex, Text } from 'soulswap-uikit'
 import styled from 'styled-components'
 import { AppDispatch } from 'state'
 import { isTransactionRecent, useAllTransactions } from 'state/transactions/hooks'

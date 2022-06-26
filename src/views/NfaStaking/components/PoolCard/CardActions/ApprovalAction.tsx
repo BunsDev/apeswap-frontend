@@ -1,6 +1,6 @@
 import React, { useCallback, useState } from 'react'
 import styled from 'styled-components'
-import { Skeleton, Button, AutoRenewIcon } from '@apeswapfinance/uikit'
+import { Skeleton, Button, AutoRenewIcon } from 'soulswap-uikit'
 import { useNfaStakingApprove } from 'hooks/useApprove'
 import { useTranslation } from 'contexts/Localization'
 

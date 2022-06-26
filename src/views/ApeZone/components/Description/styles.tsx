@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Button } from '@apeswapfinance/uikit'
+import { Flex, Button } from 'soulswap-uikit'
 
 // DESCRIPTION
 export const List = styled.ul`

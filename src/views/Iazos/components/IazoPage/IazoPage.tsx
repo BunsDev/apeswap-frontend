@@ -1,6 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
-import { Flex, Spinner } from '@apeswapfinance/uikit'
+import { Flex, Spinner } from 'soulswap-uikit'
 import Banner from 'components/Banner'
 import { useFetchIazo, useIazos } from 'state/hooks'
 import { useTranslation } from 'contexts/Localization'
